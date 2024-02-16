@@ -1,15 +1,16 @@
 
 import sys
 
-def cat():
-    print("Meow")
+def dog():
+    print("Bow")
 
 def default():
     print("Hello")
 
 def main():
-    if sys.argv[1] == 'cat':
-        cat()
+    i
+    f sys.argv[1] == 'dog':
+        dog()
     else:
         default()
 
